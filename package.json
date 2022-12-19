@@ -1,0 +1,22 @@
+{
+  "name": "assembly-script-contract",
+  "version": "1.0.0",
+  "description": "My first Near smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Dheeraj-0721/Assembly-Script-Contract.git"
+  },
+  "author": "Dheeraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dheeraj-0721/Assembly-Script-Contract/issues"
+  },
+  "homepage": "https://github.com/Dheeraj-0721/Assembly-Script-Contract#readme",
+  "dependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
